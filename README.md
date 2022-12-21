@@ -1,5 +1,5 @@
 - 👋 Hi there!! I’m Jasmine OR "aca22jht"
-- 👀 I’m interested in learning new coding skills.
+- 👀 I’m interested to learn and improve my coding skills.
 - 🌱 I’m currently learning JAVA, HTML, CSS, C, HASKELL, PYTHON.
 - 💞️ I'm looking to collaborate on --> no specific field yet.
 - 📫 How to reach me --> JHPTay1@sheffield.ac.uk
