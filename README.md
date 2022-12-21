@@ -1,7 +1,7 @@
 - 👋 Hi there!! I’m Jasmine OR "aca22jht"
 - 👀 I’m interested to learn and improve my coding skills.
 - 🌱 I’m currently learning JAVA, HTML, CSS, C, HASKELL, PYTHON.
-- 💞️ I'm looking to collaborate on --> no specific field yet.
+- 💞️ I'm a Computer Science (Artificial Intelligence) student at The University of Sheffield.
 - 📫 How to reach me --> JHPTay1@sheffield.ac.uk
 
 <!---
